@@ -3,4 +3,6 @@ A modern reproduction of the legendary and very famous DIY HF transceiver design
 
 Three different panel layouts and label languages (Russian, English and Chinese) are provided. STEP files with sheet metal pars only for sheet metal fabrication. STL files with all possible parts for preview and 3D printing of non-standard components.
 
-Non-commercial use only.
+Some dimensions may need adjustments based on the components you used.
+
+For non-commercial use only.
